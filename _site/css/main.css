@@ -1335,6 +1335,9 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
+.nav > li > a:hover {
+  background: transparent; }
+
 .navbar-left > li > a {
   background: transparent;
   color: black;
@@ -1360,7 +1363,6 @@ html[xmlns] .flexslider .slides {
   font-size: 2rem;
   font-weight: 300; }
   .cta:hover {
-    background: #eeeeee;
     color: #da8d06; }
   .cta:active {
     text-decoration: none;
@@ -1381,11 +1383,6 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left {
   margin-top: 1rem; }
-
-.navbar-right {
-  margin-top: 1rem; }
-  .navbar-right a {
-    font-weight: bold; }
 
 .nav-logo {
   float: left !important;

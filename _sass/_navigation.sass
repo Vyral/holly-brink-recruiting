@@ -19,6 +19,10 @@
 	margin-bottom: 0px
 	@include transition
 
+.nav>li>a
+	&:hover
+		background: transparent
+
 .navbar-left>li>a
 	background: transparent
 	color: black
@@ -51,7 +55,7 @@
 	font-size: 2rem
 	font-weight: 300
 	&:hover
-		background: #eeeeee
+		// background: #eeeeee
 		color: $brand-dark
 	&:active
 		text-decoration: none
@@ -77,8 +81,8 @@
 .navbar-left
 	margin-top: 1rem
 
-.navbar-right
-	margin-top: 1rem
+// .navbar-right
+// 	margin-top: 1rem
 	a
 		font-weight: bold
 
