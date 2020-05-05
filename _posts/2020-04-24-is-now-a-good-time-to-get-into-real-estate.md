@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now a Good Time to Get Into Real Estate?
-date: 2020-04-24 21:04:47
+date: 2020-04-24 21:04:00
 tags:
   - Transaction Management
   - Buyer Prospects
@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/aspiring-realtors-youtube.jpg
-youtube_code: 8mU_ZkerA5s
+youtube_code: NuTokxwyLgo
 ---
 
 {% include youtube.html %}
