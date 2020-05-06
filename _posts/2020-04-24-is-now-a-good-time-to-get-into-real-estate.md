@@ -28,9 +28,9 @@ Despite all of the uncertainty and fear around the COVID-19 pandemic, I truly be
 
 This environment presents a solid opportunity to dig into education, get your CE done, and work on your sphere of influence. Given the state of disarray that the world is in, **there’s never been a better time to simply reach out to people and make a human connection.** For those serious about carving out a career in this industry, I recommend taking this time to lay the strong foundation you’ll need to grow your business in the long run.&nbsp;
 
-In any market, there are always those who absolutely need to buy and need to sell. Right now in Des Moines, we’re seeing more listings than active buyers, whereas, in Cedar Rapids, we’re seeing the opposite scenario.&nbsp;
-
 {% include pullquote.html %}
+
+In any market, there are always those who absolutely need to buy and need to sell.&nbsp;
 
 **What we’re observing in other countries that are now on the other side of the coronavirus peak is a really quick real estate market bounce back.** Some people forced to become work-at-home warriors realized they had nowhere in their homes to be alone and productive, so they’re eyeing properties with more space. Others have been using this time to fix up their houses for the market, addressing repairs that have been on the backburner for years.&nbsp;
 
