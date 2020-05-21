@@ -11,7 +11,7 @@ excerpt: >-
   Here’s why I believe it makes sense to jump into the real estate industry—even
   amid this global health crisis.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/How+to+get+a+Real+Estate+License+in+Iowa_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/Is+Now+a+Good+Time+to+Get+Into+Real+Estate_.mp4
 pullquote: >-
   In any market, there are always those who absolutely need to buy and need to
   sell.
