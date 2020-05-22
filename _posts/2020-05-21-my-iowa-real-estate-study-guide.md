@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Iowa Real Estate Study Guide
-date: 2020-05-21 20:23:14
+date: 2020-05-21 20:23:00
 tags:
   - Transaction Management
   - Reviews and Referrals
@@ -27,3 +27,7 @@ I’ve been hearing from a ton of new agents who have already been licensed in a
 I ask the questions I think you should know in order to pass the Iowa portion of the exam. I went back through all my notes and while I don’t know exactly what’s on the exam, I do know the most important things you need to know.
 
 Follow **[this link](https://docs.google.com/forms/d/e/1FAIpQLSdRz2yANMxUhetAFRcV4OAH8XQ-hUg5ETAmEU9W6QbgnBKcuA/viewform){: target="_blank"}** to get your copy\!
+
+We launched in Iowa in March of 2018 and by December 12 agents had sold 85 total homes. In 2019, our 66 active agents have sold 505 homes.
+
+**[Click here](https://freerealestateagenttraining.com/subscribe/){: target="_blank"}** to subscribe to our e-mail newsletter.
