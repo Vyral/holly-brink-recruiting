@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Start Making Money as an Agent
-date: 2020-05-22 18:03:28
+date: 2020-05-22 18:03:00
 tags:
   - Reviews and Referrals
   - Lead Generation
@@ -29,7 +29,7 @@ This is a great way to get your name out there and increase your referral busine
 
 {% include pullquote.html %}
 
-**2\. Get a copy of the listing packet and buyer packet that your brokerage wants you to use.** Read through these documents and highlight anything you don’t understand. Ask your broker, mentor, etc. about anything you have highlighted.
+**2\. Get a copy of the listing packet and buyer packet that your brokerage wants you to use.** Read through these documents and highlight anything you don’t understand. Ask your broker, mentor, etc., about anything you have highlighted.
 
 **3\. Reach out to other agents within your company who are busy.** Ask them if you can help in any way with setting up open houses, nurturing leads, and getting more referrals.
 
