@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-ways-to-make-money-youtube.jpg
-youtube_code: yrLPWIbVQTg
+youtube_code: YnTug5aWs7E
 ---
 
 {% include youtube.html %}
