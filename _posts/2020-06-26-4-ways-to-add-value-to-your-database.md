@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 4 Ways to Add Value to Your Database
-date: 2020-06-26 16:38:59
+date: 2020-06-26 16:38:00
 tags:
   - Lead Conversion
   - Transaction Management
   - Reviews and Referrals
 excerpt: I’m sharing 4 tried-and-true ways to give value to your database.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/4+Ways+to+Add+Value+to+Your+Database.mp4
 pullquote: Pie giveaways are a great way to win people over.
 enclosure_type: video/mp4
 enclosure_time:
