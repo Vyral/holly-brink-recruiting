@@ -7,7 +7,7 @@ tags:
   - Transaction Management
 excerpt: What’s the key to winning offers in a seller’s market?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/Key+Tips+to+Help+Your+Offer+Win.mp4
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/How+Do+I+Write+the+Winning+Offer%3F.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
