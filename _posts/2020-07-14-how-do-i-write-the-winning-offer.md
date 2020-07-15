@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Key Tips to Help Your Offer Win
-date: 2020-07-14 21:33:41
+title: How Do I Write the Winning Offer?
+date: 2020-07-14 21:33:00
 tags:
   - Lead Conversion
   - Transaction Management
@@ -24,7 +24,7 @@ With that in mind, here a few tips that will help your offer stand out from your
 
 **1\. Escalation clauses.** An escalation clause is simply verbiage in your offer that states your client will offer a certain amount more than a competitor up to a cap amount. For example, your escalation clause could say you’re willing to pay $1,000 more than the next competitor’s offer, with a cap of $10,000 over the list price.
 
-**2\. Cash offers**. Cash offers are often the strongest because they usually have a quicker close. But the reality is that, for the seller, all offers end up being cash in the end.
+**2\. Cash offers**. Cash offers are often the strongest because they usually have a quicker close. However, the reality is that, for the seller, all offers end up being cash in the end.
 
 **3\. Conventional loans.** These loans give buyers more purchasing power; they have fewer restrictions than FHA, VA, and USDA loans.&nbsp;
 
@@ -32,7 +32,7 @@ With that in mind, here a few tips that will help your offer stand out from your
 
 **5\. Shorten the inspection period**. You could waive it all together, though I don’t recommend that. Another option is to shorten it to three or four days. Find out when your buyer’s preferred home inspector can get in the home so you know how much that period can be shortened.&nbsp;
 
-**6\. Make your earnest money non-refundable.** This will show the seller that you’re willing to put money on the line in order to have your bid accepted; if things don’t work out, the seller will get to keep that money as a sort of consolation prize.&nbsp;
+**6\. Make your earnest money non-refundable.** This will show the seller that you’re willing to put money on the line to have your bid accepted; if things don’t work out, the seller will get to keep that money as a sort of consolation prize.&nbsp;
 
 **7\. Offer to pay for the seller’s closing costs**. If you can afford to take this on, this would be a great way to craft an aggressive offer that will catch the seller’s attention.
 
