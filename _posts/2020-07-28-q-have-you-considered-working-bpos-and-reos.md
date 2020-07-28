@@ -5,7 +5,8 @@ date: 2020-07-28 21:40:49
 tags:
   - Transaction Management
 excerpt: Here’s my recent conversation with superstar agent John Ruckman.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/How+to+get+a+Real+Estate+License+in+Iowa_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
