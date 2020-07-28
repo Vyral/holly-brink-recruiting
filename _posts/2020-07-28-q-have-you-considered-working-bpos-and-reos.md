@@ -16,7 +16,7 @@ youtube_code: YcErZj0rLwg
 
 {% include youtube.html %}
 
-Here’s my recent conversation with superstar agent John Ruckman.
+<p style="text-align:center">Here’s my recent conversation with superstar agent John Ruckman.</p>
 
 Today I’m sharing a Zoom call that I had recently with eXp Realty agent John Ruckman, a specialist in Broker Price Opinion (BPO) and Real Estate Owned (REO) properties. We talked about these two types of properties, how he got started working them, and much more.
 
