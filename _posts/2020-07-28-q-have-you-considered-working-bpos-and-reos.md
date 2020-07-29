@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Considered Working BPOs and REOs?'
-date: 2020-07-28 21:40:49
+date: 2020-07-28 21:40:00
 tags:
   - Transaction Management
 excerpt: Here’s my recent conversation with superstar agent John Ruckman.
@@ -17,7 +17,7 @@ youtube_code: YcErZj0rLwg
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s my recent conversation with superstar agent John Ruckman.</em></p>
+*Here’s my recent conversation with superstar agent John Ruckman.*
 
 Today I’m sharing a Zoom call that I had recently with eXp Realty agent John Ruckman, a specialist in Broker Price Opinion (BPO) and Real Estate Owned (REO) properties. We talked about these two types of properties, how he got started working them, and much more.
 
@@ -33,7 +33,7 @@ Today I’m sharing a Zoom call that I had recently with eXp Realty agent John R
 
 10:33- A look at the different platforms John uses to find these types of properties
 
-14:00- John talks about his platform, Mission2Mindset.com which includes his free 90-day action plan among other free resources
+14:00- John talks about his platform, Mission2Mindset.com, which includes his free 90-day action plan among other free resources
 
 16:33- Wrapping things up
 
