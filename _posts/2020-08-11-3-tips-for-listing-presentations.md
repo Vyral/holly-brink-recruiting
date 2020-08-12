@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Listing Presentations
-date: 2020-08-11 20:08:47
+date: 2020-08-11 20:08:00
 tags:
   - Listing Presentation
 excerpt: Impress sellers at your listing presentation with these three tips.
@@ -19,9 +19,9 @@ youtube_code: Z2Tre02UhLs
 
 There are many necessary things to take into consideration when going on a listing appointment. I’m sharing three tips to dazzle sellers during your listing presentation:
 
-**1\. Be prepared.** Have a professional presentation; whether you print this out on high-quality paper or make it digital, you need to show sellers what you’ll do differently to get their home sold. Demonstrate this; provide examples of your previous listings, pictures, virtual tours, advertising, postcards, etc. Show them everything you do for your sellers.
+**1\. Be prepared.** Have a professional presentation; whether you print this out on high-quality paper or make it digital, you need to show sellers what you’ll do differently to get their home sold. Demonstrate this through providing examples of your previous listings, pictures, virtual tours, advertising, postcards, etc. Show them everything you do for your sellers.
 
-**2\. Know the area.** Make sure you’ve run the numbers on the area and neighborhood that morning so you can provide specific numbers about how many houses are on the market, in their area, in their price range, and explain how this data is used to decide the value of their property. Position yourself as their neighborhood expert.&nbsp;
+**2\. Know the area.** Make sure you’ve run the numbers on the area and neighborhood that morning so you can provide specific data about how many houses are on the market in their area and price range, and explain how this data is used to decide the value of their property. Position yourself as their neighborhood expert.&nbsp;
 
 {% include pullquote.html %}
 
