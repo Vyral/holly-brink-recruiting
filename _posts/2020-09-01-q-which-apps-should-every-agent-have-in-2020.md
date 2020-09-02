@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which Apps Should Every Agent Have in 2020?'
-date: 2020-09-01 17:08:26
+date: 2020-09-01 17:08:00
 tags:
   - Buyer Prospects
   - Lead Generation
@@ -28,11 +28,11 @@ Here are the six apps every agent should have in 2020:
 
 **2\. Dropbox.** This isn’t necessarily the safest way to store files, and you certainly don’t want to keep clients’ private information on this app, but I absolutely love it regardless. I have Dropbox on my phone, iPad, both laptops, and desktop computer. It lets me drag and drop files and access, sign, and save them from my phone.
 
-**3\. Zoom.** Zoom has always been an important app in the real estate industry, but it’s become practically essential in 2020. Whether you’re hosting a Zoom meeting or attending someone else’s, it’s good to have this app on your phone and be prepared. It’s also a great way to host buyer and seller consultations without having to meet face-to-face.&nbsp;
+**3\. Zoom.** Zoom has always been an important app in the real estate industry, but it’s become practically essential in 2020. Whether you’re hosting a Zoom meeting or attending someone else’s, it’s good to have this app on your phone and be prepared. It’s also a great way to host buyer and seller consultations without having to meet in person.&nbsp;
 
 {% include pullquote.html %}
 
-**4\. IntroLend.** This is an app any agent can use to kickstart a deal before going home shopping with their buyer. Once you get a prospect, you enter their information into it, hit the “fast start” button, and it starts pre-qualifying your buyer. After that, they can choose which bank to go with. You can also attach your favorite lender(s).&nbsp;
+**4\. IntroLend.** This is an app any agent can use to kickstart a deal before going home shopping with their buyer. Once you get a prospect, you enter their information into it, hit the “fast start” button, and it starts pre-qualifying your buyer. After that, they can choose which bank to use. You can also attach your favorite lender(s).&nbsp;
 
 **5\. Forewarn** (or any background-checking app). This helps you stay compliant with fair housing laws and ensure that what you do for one prospect, you do for all prospects. Forewarn can track who you’re looking up, but it’s also a great way to get a cursory idea of who you’re dealing with, especially if that person isn’t a referral. Lots of MLS organizations and Realtor boards provide this app as a service to their members.&nbsp;
 
