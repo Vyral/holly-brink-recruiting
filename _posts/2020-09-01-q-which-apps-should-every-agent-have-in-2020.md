@@ -32,9 +32,9 @@ Here are the six apps every agent should have in 2020:
 
 {% include pullquote.html %}
 
-**4\. IntroLend.** This is an app any agent can use to kickstart a deal before going home shopping with their buyer. Once you get a prospect, you enter their information into it, hit the “fast start” button, and it starts pre-qualifying your buyer. After that, they can choose which bank to use. You can also attach your favorite lender(s).&nbsp;
+**4\. IntroLend.** This is an app eXp agents can use to kickstart a deal before going home shopping with their buyer. Once you get a prospect, you enter their information into it, hit the “fast start” button, and it starts pre-qualifying your buyer. After that, they can choose which bank to use. You can also attach your favorite lender(s).&nbsp;
 
-**5\. Forewarn** (or any background-checking app). This helps you stay compliant with fair housing laws and ensure that what you do for one prospect, you do for all prospects. Forewarn can track who you’re looking up, but it’s also a great way to get a cursory idea of who you’re dealing with, especially if that person isn’t a referral. Lots of MLS organizations and Realtor boards provide this app as a service to their members.&nbsp;
+**5\. Forewarn** (or any background-checking app). Forewarn can investigate any prospects before you connect IRL, but it’s also a great way to get a cursory idea of who you’re dealing with, especially if that person isn’t a personal referral. Lots of MLS organizations and Realtor boards provide this app as a service to their members. Just remember in order to stay compliant with fair housing laws and ensure that you are not violating them make sure if this is part of your process it becomes part of your process for everyone. They do track who you search for, so if you're ever investigated this information could be used to show you are or are not compliant with fair housing laws.&nbsp;
 
 **6\. Savvy House Hunting.** This is my favorite new app of 2020, as it’s been a total game-changer. It helps you set up a private portal for your clients where you can take them on virtual walk-throughs of homes (with the listing agent’s permission). If they need to narrow down their selection, or are purchasing sight-unseen, this app is a great way to keep everything organized and secure.&nbsp;
 
