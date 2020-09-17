@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Set the Right Expectations?'
-date: 2020-09-16 19:30:20
+date: 2020-09-16 19:30:00
 tags:
   - Transaction Management
 excerpt: Here are some tips on managing your client’s expectations.
@@ -18,7 +18,7 @@ youtube_code: ncB1n8TuQM0
 
 Whether you’re working with a buyer or a seller (perhaps even a landlord or renter), it’s important to set expectations. **The reason why most people feel dissatisfied with the service provided is that it wasn’t what they had hoped or expected.&nbsp;**
 
-Recently, one of my agents shared that some clients for whom she had written multiples told her, “You know what, we’re done here. We’re just going to continue living at home with our parents.” She now feels like there’s nothing she can do to pull them off the ledge. However, she neglected to have an all-important conversation up front, which should’ve gone something like this:
+Recently, one of my agents shared that some clients for whom she had written multiple offers for told her, “You know what, we’re done here. We’re just going to continue living at home with our parents.” She now feels like there’s nothing she can do to pull them off the ledge. However, she neglected to have an all-important conversation up front, which should’ve gone something like this:
 
 *“Thank you for choosing me. Let’s dive right into our standard buyer consultation. Before we start, you should know it’s a very competitive market right now; you need to be prepared to write multiple offers to secure a home. When you find one you like, don’t put all of your eggs in that one basket and become emotionally attached.&nbsp;*
 
