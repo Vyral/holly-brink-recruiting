@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: How Does Your Errors & Omission Coverage Work?'
-date: 2020-10-02 22:14:52
+date: 2020-10-02 22:14:00
 tags:
   - Transaction Management
 excerpt: I spoke with Dan Chandler of Rice Insurance to learn more about E&O coverage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/Q-+How+Does+Your+Errors+%26+Omission+Coverage+Work_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
