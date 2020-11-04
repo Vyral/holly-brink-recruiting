@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Is the eXp Mentor Program?'
-date: 2020-11-03 22:12:36
+date: 2020-11-03 22:12:00
 tags:
   - Reviews and Referrals
 excerpt: Here’s why the eXp Expand Mentor program is invaluable to new agents.
@@ -25,10 +25,10 @@ This program is a commitment that costs an extra 20% of your commission for the 
 
 {% include pullquote.html %}
 
-This mentor will only be receiving 10% of your commission, so it’s not as if they’re making millions of dollars off of you; they’re doing this out of the goodness of their heart. There is a list of items that they’re supposed to go over with you, and you’ll receive this list when you enroll. Additionally, **there’s also an online component, with 10 modules for you to complete that cover everything from business planning to time management.** You’ll be expected to meet weekly with your mentor and go over a weekly report card of sorts until you complete those first three transactions, at which you’ll be able to graduate from the program.&nbsp;
+This mentor will only be receiving 10% of your commission, so it’s not as if they’re making millions of dollars off of you; they’re doing this out of the goodness of their heart. There is a list of items that they’re supposed to go over with you, and you’ll receive this list when you enroll. Additionally, **there’s an online component, with 10 modules for you to complete that cover everything from business planning to time management.** You’ll be expected to meet weekly with your mentor and go over a weekly report card of sorts until you complete those first three transactions, after which you’ll be able to graduate from the program.&nbsp;
 
-That said, you have to go to your mentor with any additional questions or you have you—they won’t be checking in on you or chasing you down. If they don’t hear from you outside of your regular meetings, they’ll assume you’re feeling confident and comfortable.&nbsp;
+That said, you have to go to your mentor with any additional questions or what have you—they won’t be checking in on you or chasing you down. If they don’t hear from you outside of your regular meetings, they’ll assume you’re feeling confident and comfortable.&nbsp;
 
-What is more, **eXp also created a fast-start series consisting of 14 classes that any new agent can join in on live or explore later in the eXp library;** this is a great supplement for those 10 Expand Mentor program modules.&nbsp;
+Also, **eXp created a fast-start series consisting of 14 classes that any new agent can join in on live or explore later in the eXp library;** this is a great supplement for those 10 Expand Mentor program modules.&nbsp;
 
-Hopefully, this gives you a better understanding of eXp culture and how we prepare you for success. As always, reach out to me via phone or email if you have any questions on this program or anything else related to standard eXp practice. I’m more than happy to help\!
+Hopefully, this gives you a better understanding of eXp culture and how we prepare you for success. As always, reach out to me via phone or email if you have questions on this program or anything else related to standard eXp practice. I’m more than happy to help\!
