@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Did You Miss EXPCON 2020?'
-date: 2020-11-24 20:43:48
+date: 2020-11-24 20:43:00
 tags:
   - Transaction Management
   - Reviews and Referrals
@@ -9,7 +9,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: This is a recap of what we learned at EXPCON 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Holly+Brink/Q_+Did+You+Miss+EXPCON+2020_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
