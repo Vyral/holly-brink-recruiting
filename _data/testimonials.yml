@@ -1,5 +1,10 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: Absolutely wonderful!
+    name: Kaylyn Carnithan
+    audio:
+
+testimonial:
+  - quote: Absolutely wonderful!
+    name: Kaylyn Carnithan
     audio:
