@@ -14,6 +14,8 @@ youtube_code: pKQnGBQQ3O4
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Do you wish clients would just pick up the phone and call you so that you didn’t have to go out and look for leads? One way to do this is to establish yourself as a market expert.
 
 If you want to be a local market expert, here are some things to consider. First, **one of the most important things that you’ll do in any market is preview property on a daily basis.** So until you truly are a market expert, one of the best ways to become one is to get inside houses.
