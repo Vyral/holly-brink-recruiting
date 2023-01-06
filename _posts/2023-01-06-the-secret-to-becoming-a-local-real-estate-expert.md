@@ -32,4 +32,4 @@ One way to get in touch with local businesses is to film a video with them. You�
 
 Finally, learn how to answer common questions people moving have. Where is the nearest post office? Where are the schools? What are their ratings? Do you know the principal? Don't be afraid to have those conversations.&nbsp;
 
-If you’re a local expert, clients will flock to you for advice and business. Don’t hesitate to call or email me with any questions. I am always willing to help\!
+If you’re a local expert, clients will flock to you for advice and business. Don’t hesitate to call or email me with any questions. I am always willing to help\!&nbsp;
