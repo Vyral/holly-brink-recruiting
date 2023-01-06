@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Secret To Becoming A Local Real Estate Expert
-date: 2023-01-06 05:00:00
+date: 2023-01-05 05:00:00
 tags:
 excerpt: 'Here’s how you can become a local expert in your housing market. '
 enclosure:
