@@ -14,8 +14,6 @@ youtube_code: pKQnGBQQ3O4
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Do you wish clients would just pick up the phone and call you so that you didn’t have to go out and look for leads? One way to do this is to establish yourself as a market expert.
 
 If you want to be a local market expert, here are some things to consider. First, **one of the most important things that you’ll do in any market is preview property on a daily basis.** So until you truly are a market expert, one of the best ways to become one is to get inside houses.
@@ -24,7 +22,7 @@ Try to take a look at all available open houses in your area–you can even brin
 
 {% include pullquote.html %}
 
-If a property is vacant, typically they don't care when you go, but you still want to reach out and make that appointment or follow the showing instructions on the MLS. Get out there, go to other agents, open houses, introduce yourself–you always want to identify yourself as an agent. This is one of the best ways to become an expert in your market.
+If a property is vacant, typically they don't care when you go, but you still want to reach out and make that appointment or follow the showing instructions on the MLS. Get out to open houses and reach out to other agents and introduce yourself–you always want to identify yourself as an agent. This is one of the best ways to become an expert in your market.
 
 From here, **it’s time to focus on the details.** Make sure you've eaten at every restaurant in your local community so you can speak from experience. What was your favorite dish? Did you like it? Is it mainly Mexican? Is it Chinese? You want to be able to speak from experience about the little things in your area.
 
