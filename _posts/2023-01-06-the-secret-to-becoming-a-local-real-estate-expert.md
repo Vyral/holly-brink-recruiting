@@ -9,8 +9,8 @@ pullquote: 'Working with local businesses is a win-win. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/local-expert-yt.jpg
-youtube_code: pKQnGBQQ3O4
+youtube_alternate_image: /uploads/local-expert-yt-1.jpg
+youtube_code: Iu8UtLGOoqA
 ---
 {% include youtube.html %}
 
