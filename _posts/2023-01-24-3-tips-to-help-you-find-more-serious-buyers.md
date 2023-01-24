@@ -14,8 +14,6 @@ youtube_code: 4E-vdj9oz8w
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Are you trying to figure out how to get through all the looky-loos and find serious buyers? There are many ways to weed out noncommital buyers so you don't waste your time. Here are three tips for you:&nbsp;
 
 **1\. Get potential buyers pre-qualified.** You want to make sure that they're talking to their bank or your preferred lender. Stop them and find out from a lender what they qualify for and when they can qualify to buy.&nbsp;
