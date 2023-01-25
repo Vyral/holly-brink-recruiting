@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/finding-buyers-yt.jpg
 youtube_code: 4E-vdj9oz8w
 ---
 {% include youtube.html %}
