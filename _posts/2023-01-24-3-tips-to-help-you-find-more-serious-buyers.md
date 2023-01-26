@@ -20,6 +20,6 @@ Are you trying to figure out how to get through all the looky-loos and find seri
 
 **2\. Schedule a buyer consultation.** You want to find out what they're looking for and show your value. Find out what they need and what they want. If a buyer is not willing to take the time to talk to you about what they're looking for so that you can best serve them, they might be in the market to just look instead of act.&nbsp;
 
-**3\. Look out for buyers who seem to only make sign-calls.** It’s a big red flag when someone says they've been working with a lot of agents and have made a lot of sign-calls.&nbsp;
+**3\. Look out for buyers who seem to only make sign calls.** It’s a big red flag when someone says they've been working with a lot of agents and have made a lot of sign calls.&nbsp;
 
 If you have any questions on this, please reach out! You can contact me by phone or email. I look forward to hearing from you.
