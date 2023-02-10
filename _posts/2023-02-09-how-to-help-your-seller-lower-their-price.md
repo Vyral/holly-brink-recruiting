@@ -16,8 +16,6 @@ youtube_code: Js7s0bz9FJM
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Every homeowner wants to get the most money for their home when they list. They’ve paid for the mortgage for years and probably have most of their savings tied up in their property. The sale of their house can have a direct impact on the quality of life they will have in the future.&nbsp;
 
 However, real estate can be very volatile. A short while ago, our market heavily favored sellers. They could put up whatever outrageous price they wanted and still expect cash buyers to come flocking in with offers that were way above the asking price.&nbsp;
