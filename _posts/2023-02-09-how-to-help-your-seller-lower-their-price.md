@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/price-reductions-yt.jpg
-youtube_code: Js7s0bz9FJM
+youtube_code: RDfalkHXHgU
 ---
 {% include youtube.html %}
 
