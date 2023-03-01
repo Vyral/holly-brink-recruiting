@@ -14,8 +14,6 @@ youtube_code: V0Ke5seuOBo
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 I've got one idea to help you get more business this year. Lots of new agents have heard and know that you can get paid for referrals, so you want to maintain your sphere, whether they're local or not because you can always connect your friend or family member to an agent in their area that can help them.
 
 Along those same lines, did you know that over 40 real estate companies make this their goal? For seasoned agents, it's not always an exciting strategy, as they may have to give away 25% to 43% of a commission. **However, some see it as a commission they wouldn't have had anyway.**
