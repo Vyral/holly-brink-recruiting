@@ -5,7 +5,7 @@ date: 2023-05-09 05:00:00
 tags:
 excerpt:
 enclosure:
-pullquote: 'You can move priorities, but you can ignore them. '
+pullquote: Plan your perfect day and try to stick to it.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
